@@ -6,4 +6,8 @@ public class Settler {
 
     }
 
+    public void robot(){
+
+    }
+
 }
