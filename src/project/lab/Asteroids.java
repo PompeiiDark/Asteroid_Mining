@@ -4,8 +4,8 @@ public class Asteroids implements Neighbors{
     private int depth;
     private boolean closetosun;
 
-    public Asteroids(int depth) {
-        this.depth = depth;
+    public Asteroids() {
+
     }
 
     public  void createcore(){

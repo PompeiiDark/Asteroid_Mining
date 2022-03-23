@@ -1,4 +1,4 @@
 package project.lab;
 
-public class Robot {
+public class Robot extends Traveler {
 }
